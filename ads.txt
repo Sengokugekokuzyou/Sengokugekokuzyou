@@ -1,0 +1,4 @@
+# ads.txt for 戦国下剋上BEATS official site
+# Google AdSense approval and publisher ID are not configured yet.
+# After approval, replace this placeholder with the exact line shown in AdSense, for example:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
