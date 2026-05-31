@@ -4,7 +4,7 @@
 
 ## 公式リンク
 
-- 公式HP: GitHub Pages設定後に公開
+- 公式HP: https://sengokugekokuzyou.github.io/
 - YouTube: https://www.youtube.com/@戦国下剋上BEATS
 - note: https://note.com/shirokurochannel
 - X: https://x.com/sirokuro_selbin
@@ -23,4 +23,4 @@
 公開物、ZIP、告知、外部リンクの更新は代表者確認後に実施します。
 Discordの公開チャンネルへの投稿は、当面は手動確認を挟んで運用します。
 
-広告収益化は、GitHub Pages側の公式HPでAdSense等の審査準備を行い、ゲーム本体への広告表示は審査・規約確認・広告ID発行後に実装します。
+広告収益化は、公式HPでAdSense等の審査準備を行い、ゲーム本体への広告表示は審査・規約確認・広告ID発行後に実装します。
